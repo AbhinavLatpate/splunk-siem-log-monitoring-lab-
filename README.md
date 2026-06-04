@@ -92,8 +92,6 @@ index=macos earliest="MM/DD/YYYY:HH:MM:SS" latest="MM/DD/YYYY:HH:MM:SS"
 
 ## Screenshots
 
-> Add your own screenshots to a `/screenshots` folder and link them here — this is what makes the project verifiable to a recruiter in 30 seconds.
-
 | View | Screenshot |
 |------|-----------|
 | Data inputs / ingested events | `![Ingestion](screenshots/ingestion.png)` |
