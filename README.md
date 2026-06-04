@@ -58,7 +58,7 @@ The goal of this lab was to stand up a working SIEM, get real log data flowing i
 
 ## Sample Searches (SPL)
 
-> Index/sourcetype names below reflect this lab's setup — adjust to match your own data inputs.
+> Index/sourcetype names below reflect this lab's setup
 
 **Authentication failures over time**
 ```spl
