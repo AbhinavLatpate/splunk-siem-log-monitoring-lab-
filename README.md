@@ -92,11 +92,14 @@ index=macos earliest="MM/DD/YYYY:HH:MM:SS" latest="MM/DD/YYYY:HH:MM:SS"
 
 ## Screenshots
 
-| View | Screenshot |
-|------|-----------|
-| Data inputs / ingested events | `![Ingestion](screenshots/ingestion.png)` |
-| Authentication dashboard | `![Dashboard](screenshots/dashboard.png)` |
-| Example SPL investigation | `![Search](screenshots/search.png)` |
+### Ingested macOS log events (261k+ events indexed)
+![Ingested events](ingestion.png)
+
+### Event volume over time — dashboard
+![Dashboard](dashboard.png)
+
+### Timechart analysis in Search & Reporting
+![Search](search.png)
 
 ---
 
